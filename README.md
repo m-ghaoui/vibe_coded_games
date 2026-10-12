@@ -9,3 +9,7 @@ I prompted a "6dof quake game" and an "isometric rpg" but tried to avoid mention
 # isometric_rpg
 
 ![isometric_rpg screenshot](isometric_rpg_screenshot.png)
+
+# space_sim
+
+![space_sim screenshot](space_sim_screenshot.png)
