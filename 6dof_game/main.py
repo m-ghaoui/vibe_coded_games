@@ -45,7 +45,7 @@ from panda3d.core import (
 SCREENSHOT_MODE = "--screenshot" in sys.argv
 
 loadPrcFileData("", """
-window-title Quake6 - 6DoF Panda3D shooter
+window-title 6DoF Panda3D shooter
 win-size 1280 720
 sync-video true
 show-frame-rate-meter true
