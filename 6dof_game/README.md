@@ -1,6 +1,6 @@
 # Quake6
 
-A small 6DoF (Descent-style) shooter in Panda3D. The level, textures and models are all generated when the game starts.
+A small 6DoF shooter in Panda3D. The level, textures and models are all generated when the game starts.
 
 ## Run
 
