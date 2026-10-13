@@ -16,4 +16,6 @@ I prompted a "6dof quake game" and an "isometric rpg" but tried to avoid mention
 
 # hex_dungeon_crawl
 
+![hex_dungeon_crawl screenshot](hex_dungeon_crawl_screenshot.png)
+
 A first-person grid dungeon crawler on a hexagonal grid: six directions instead of four.
