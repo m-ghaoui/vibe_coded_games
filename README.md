@@ -13,3 +13,7 @@ I prompted a "6dof quake game" and an "isometric rpg" but tried to avoid mention
 # space_sim
 
 ![space_sim screenshot](space_sim_screenshot.png)
+
+# hex_dungeon_crawl
+
+A first-person grid dungeon crawler on a hexagonal grid: six directions instead of four.
