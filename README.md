@@ -19,3 +19,15 @@ I prompted a "6dof quake game" and an "isometric rpg" but tried to avoid mention
 ![hex_dungeon_crawl screenshot](hex_dungeon_crawl_screenshot.png)
 
 A first-person grid dungeon crawler on a hexagonal grid: six directions instead of four.
+
+# breakout
+
+![breakout screenshot](breakout_screenshot.png)
+
+A classic Breakout clone using pygame, created by Qwen running locally.
+
+# breakout_experiment
+
+![breakout_experiment screenshot](breakout_experiment_screenshot.png)
+
+A variant of the breakout clone, also by Qwen, where the paddle can move in all four directions but can't pass through bricks.
